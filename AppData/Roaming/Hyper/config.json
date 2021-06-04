@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		0,
+		0
+	],
+	"windowSize": [
+		1920,
+		1040
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hyperminimal\",\"hyper-transparent\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hyperminimal\",\"0.1.0\"],[\"hyper-transparent\",\"1.2.2\"]]"
+	}
+}
