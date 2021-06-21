@@ -42,7 +42,7 @@
                   "strings": false
       },
       "editor.acceptSuggestionOnCommitCharacter": true,  
-      "editor.acceptSuggestionOnEnter": "off", 
+      "editor.acceptSuggestionOnEnter": "on", 
       "editor.quickSuggestionsDelay": 10, 
       "editor.suggestOnTriggerCharacters": true, 
       "editor.tabCompletion": "off", 
